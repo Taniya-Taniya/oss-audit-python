@@ -26,9 +26,9 @@ Reads a log file, counts occurrences of a keyword (like "error"), and displays r
 Generates a personalized open-source philosophy statement based on user input.
 
 ## How to Run the Scripts
-- 1. Open terminal (Linux / WSL)
-- 2. Navigate to the project folder
-- 3. Run the following commands:
+ 1. Open terminal (Linux / WSL)
+ 2. Navigate to the project folder
+3.  Run the following commands:
 ```
 chmod +x script1.sh
 ./script1.sh
