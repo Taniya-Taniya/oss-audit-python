@@ -1,3 +1,5 @@
+# Script 1: System Identity Report
+
 STUDENT_NAME="Taniya"
 SOFTWARE="Python"
 
