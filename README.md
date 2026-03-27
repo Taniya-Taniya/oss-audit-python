@@ -1,7 +1,7 @@
 # Open Source Audit Project – Python
 ## Student Details
-Name: Taniya
-Reg. Number: 24MIM10043
+. Name: Taniya
+. Reg. Number: 24MIM10043
 
 ## Project Overview
 This project is an Open Source Software Audit of Python. It explores the origin, philosophy, licensing, and real-world usage of Python in Linux environments. The project also demonstrates practical understanding through shell scripting.
